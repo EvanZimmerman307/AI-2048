@@ -14,4 +14,4 @@ Use the command below to run the file
 
 #### NOTES
 
-The AI currently gets stuck if the board is full but there are possible moves
+The Monte Carlo Algorithm currently achieves a win rate of 65% at 250 simulations per move with a mean game time of approximately 3 minutes.
